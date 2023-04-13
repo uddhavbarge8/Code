@@ -1,4 +1,0 @@
-DB Details
-	Data Base : Mysql
-	version : 8
-	Database : studentmgmt
